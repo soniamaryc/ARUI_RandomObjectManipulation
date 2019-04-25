@@ -1,0 +1,1 @@
+# ARUI_ManipulateRandomObject
